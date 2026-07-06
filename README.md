@@ -2,7 +2,7 @@
 
 ## Datos generales
 
-- Estudiante: Coila Mamani Jhoel Midwar
+- Estudiante: Navarro Acrota Jannys Graciela
 - Curso: Virtualización de servicios tecnológicos
 - Proyecto: Portal WordPress para Comercial Nova
 - Región: us-east-1
